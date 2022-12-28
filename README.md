@@ -6,10 +6,10 @@
 **NOTE: THIS PROJECT IS INCOMPLETE**
 
 ## Features
-[x] Read file
-[x] Read stdin
-[ ] Advanced Arguments (like -n)
-[ ] --help
+- [x] Read file
+- [x] Read stdin
+- [ ] Advanced Arguments (like -n)
+- [ ] --help
 
 ## How to run
 ```bash
